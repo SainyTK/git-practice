@@ -1,5 +1,5 @@
 function getName() {
-    return "Sainee"
+    return "SORIN"
 }
 
 module.exports = getName;
