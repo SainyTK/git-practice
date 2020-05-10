@@ -1,5 +1,5 @@
 function getName() {
-    return "Hacker"
+    return "Hacker Update`"
 }
 
 module.exports = getName;
